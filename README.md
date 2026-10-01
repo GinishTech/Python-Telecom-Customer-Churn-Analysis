@@ -23,6 +23,12 @@ Exploratory data analysis (EDA) of a 504,000-customer telecom dataset in Python,
 - Box plots of monthly charges and support calls by churn
 - Correlation heatmap and a contract × internet service churn heatmap
 
+<img width="650" height="550" alt="churn_split" src="https://github.com/user-attachments/assets/28fe7548-3b58-45ba-b785-a3d33b701e40" />
+
+<img width="850" height="550" alt="contract_vs_internet_heatmap" src="https://github.com/user-attachments/assets/217a787b-2d2f-45d2-a0bb-4f76ac0d4d11" />
+
+
+
 ## Key findings
 - Overall churn is **34.3%**.
 - **Month-to-month** contracts churn at ~49%, versus ~19.6% (one year) and ~11.8% (two year).
