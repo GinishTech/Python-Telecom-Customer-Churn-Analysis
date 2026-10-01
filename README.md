@@ -1,4 +1,4 @@
-# Python-Telecom-Customer-Churn-Analysis
+# 🐍 Python-Telecom-Customer-Churn-Analysis
 
 Exploratory data analysis (EDA) of a 504,000-customer telecom dataset in Python, focused on **who churns and why**, using pandas, Matplotlib and Seaborn in a Jupyter Notebook.
 
