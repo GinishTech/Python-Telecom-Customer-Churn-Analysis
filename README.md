@@ -3,7 +3,7 @@
 Exploratory data analysis (EDA) of a 504,000-customer telecom dataset in Python, focused on **who churns and why**, using pandas, Matplotlib and Seaborn in a Jupyter Notebook.
 
 ## Dataset
-`data/telecom_customer_churn_big.csv`: 504,000 rows × 14 columns.
+`telecom_customer_churn_big.csv.gz`: 504,000 rows × 14 columns.
 
 | Column | Description |
 |---|---|
